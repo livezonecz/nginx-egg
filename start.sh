@@ -1,7 +1,7 @@
 #!/bin/ash
 rm -rf /home/container/tmp/*
 
-echo "⟳ ZApínání potřebných systémů"
+echo "⟳ Zapínání potřebných systémů"
 /usr/sbin/php-fpm8 --fpm-config /home/container/php-fpm/php-fpm.conf --daemonize
 
 echo "⟳ Spouštění web hostingu"
