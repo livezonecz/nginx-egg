@@ -24,3 +24,4 @@ Originally forked and edited from https://gitlab.com/tenten8401/pterodactyl-ngin
 
 
 © Sigma Productions 2023
+- LiveZone.cz - Edited
